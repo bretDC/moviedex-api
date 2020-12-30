@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bretThinkful/moviedex-api/issues"
   },
-  "homepage": "https://github.com/bretThinkful/moviedex-api#readme"
+  "homepage": "https://github.com/bretThinkful/moviedex-api#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
